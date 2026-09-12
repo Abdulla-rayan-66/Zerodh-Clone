@@ -39,7 +39,7 @@ function Navbar() {
               <li className="nav-item">
                 <a
                   className="nav-link"
-                  href="https://zerodh-clone-1-o6bo.onrender.com/"
+                  href="https://zerodh-clone-1-o6bo.onrender.com"
                 >
                   Dashboard
                 </a>
